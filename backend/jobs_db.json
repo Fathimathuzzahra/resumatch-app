@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "company": "TechInnovate Solutions",
+        "title": "MERN Stack Developer",
+        "department": "Engineering",
+        "type": "Full-time",
+        "mode": "Hybrid",
+        "location": "Bangalore, India",
+        "description": "We are looking for a robust MERN Stack Developer...",
+        "skills": "React, Node.js, Express.js, MongoDB",
+        "experience": "1 - 3 Years",
+        "education": "B.Tech / B.E",
+        "matchScore": 95
+    },
+    {
+        "id": 2,
+        "company": "CloudScale Global",
+        "title": "Frontend Developer",
+        "department": "Product UI",
+        "type": "Full-time",
+        "mode": "Remote",
+        "location": "Hyderabad, India",
+        "description": "Join our design system group...",
+        "skills": "React, JavaScript, HTML5, CSS3",
+        "experience": "0 - 2 Years",
+        "education": "B.C.A / M.C.A / B.Tech",
+        "matchScore": 88
+    },
+    {
+        "id": 3,
+        "company": "DataPrism Analytics",
+        "title": "Python Developer",
+        "department": "Data & Analytics",
+        "type": "Full-time",
+        "mode": "On-site",
+        "location": "Mumbai, India",
+        "description": "Build robust streaming pipelines...",
+        "skills": "Python, Django, Flask",
+        "experience": "2+ Years",
+        "education": "Bachelor's degree",
+        "matchScore": 40
+    },
+    {
+        "id": 4,
+        "company": "NextGen Systems",
+        "title": "React Native Developer",
+        "department": "Mobile Apps",
+        "type": "Internship",
+        "mode": "Hybrid",
+        "location": "Pune, India",
+        "description": "Develop high-performance mobile apps...",
+        "skills": "React Native, React, JavaScript",
+        "experience": "Fresher / Internship",
+        "education": "Pursuing Technical Degree",
+        "matchScore": 80
+    }
+]
